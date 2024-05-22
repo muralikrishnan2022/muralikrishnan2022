@@ -37,6 +37,7 @@
 <p>🌐 Let's connect to discuss potential projects and collaborations.<p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muralikrishnan-mani-53345a271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muralikrishnan-mani-53345a271/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22379985/muralikrishnan-mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22379985/muralikrishnan-mani" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/manimuralikrishnan4?igsh=yzljytk1odg3zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manimuralikrishnan4?igsh=yzljytk1odg3zg==" height="30" width="40" /></a>
 <a href="https://discord.gg/muralikrishnan._53874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muralikrishnan._53874" height="30" width="40" /></a>
 </p>
